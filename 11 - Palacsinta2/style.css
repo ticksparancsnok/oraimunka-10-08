@@ -1,0 +1,33 @@
+table{
+    text-align: center;
+    width: 1500px;
+    margin-right: auto;
+    margin-left: auto;
+    
+}
+
+img{
+    width: 800px;
+   align-content: center;
+}
+
+body{
+    display: block;
+    background-color: #B7B3A8;
+    font-size: 20px;
+}
+
+th{
+    width:auto;
+    padding: 5px;
+    margin: 10px;
+}
+
+.cella{
+    background-color: #6C655D;
+}
+
+.disz{
+    width: 800px;
+    align-content: center;
+}
